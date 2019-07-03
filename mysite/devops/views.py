@@ -6,4 +6,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("Hello, world. You're at DevOps web page. Yayy!")
+    return HttpResponse("Hello, world. You're at DevOps web page. Yayy! New local branch!")
